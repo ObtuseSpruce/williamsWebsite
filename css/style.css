@@ -1,3 +1,12 @@
 body {
-    background: chartreuse;
+    background-color: #81d4fa;
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
+
+main {
+    flex: 1 0 auto;
+  }
+      
